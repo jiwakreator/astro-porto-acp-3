@@ -1,0 +1,505 @@
+{
+  "basics": {
+    "name": "Andrianto C. Putro",
+    "label": "UI/UX Designer & Software Engineer",
+    "image": "/profil-andri-new.jpeg",
+    "email": "andriantocputro@gmail.com",
+    "phone": "+62 8519-0033-359",
+    "url": "https://portfolio.jiwakreator.com/",
+    "summary": "Creative and detail-oriented UI/UX Designer with over 5 years of experience in crafting user-centric digital solutions. Specialized in delivering intuitive, visually compelling designs for both mobile and web applications. Strong expertise in design systems, wireframing, prototyping, and usability testing. Adept at collaborating with cross-functional teams to translate business needs into innovative user experiences, with a focus on enhancing usability and aesthetics.",
+    "theme": "default",
+    "location": {
+      "address": "",
+      "postalCode": "61175",
+      "city": "Gresik",
+      "countryCode": "ID",
+      "region": "Indonesia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "putroandrianto",
+        "url": "https://linkedin.com/in/putroandrianto"
+      },
+      {
+        "network": "Instagram",
+        "username": "jiwakreator",
+        "url": "https://instagram.com/jiwakreator"
+      },
+      {
+        "network": "GitHub",
+        "username": "jiwakreator",
+        "url": "https://github.com/jiwakreator"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Bytenova Indonesia",
+      "position": "Co-founder & Chief Product Officer",
+      "location_type": "Remote",
+      "location": "Surabaya, Indonesia",
+      "url": "https://bytenovaland.vercel.app/",
+      "startDate": "2024-08",
+      "endDate": null,
+      "summary": "Leading product strategy, development, and UI/UX design for fintech and sustainability startups, transforming innovative ideas into functional and profitable products.",
+      "highlights": [
+        "Directed the UI/UX and product development for Carbon Footprint tracking app.",
+        "Spearheaded the design and development of Bitnova Crypto Wallet, enhancing user accessibility and security in crypto transactions."
+      ],
+      "responsibilities": [
+        "Manage the product lifecycle from conceptualization through design, development, and launch.",
+        "Oversee UX/UI design processes, ensuring the products align with market trends and user needs.",
+        "Collaborate with development teams and stakeholders to ensure the seamless delivery of projects."
+      ],
+      "achievements": [
+        "Increased team productivity by 25% by implementing agile methodologies and effective project management tools."
+      ],
+      "skills": [
+        "Figma",
+        "Whimsical",
+        "Flutter",
+        "Laravel",
+        "MySQL",
+        "Git",
+        "Scrum"
+      ]
+    },
+    {
+      "name": "PT Perkebunan Nusantara I Regional 5",
+      "position": "Software Engineer",
+      "location_type": "On site",
+      "location": "Surabaya, Indonesia",
+      "url": "https://ptpn1.co.id/",
+      "startDate": "2023-12",
+      "endDate": null,
+      "summary": "Focused on modernizing enterprise applications for the agricultural industry through redesign, performance optimization, and API integration.",
+      "highlights": [
+        "Rebuilt the OSS Planters mobile app for sugarcane plantation management, improving user experience and system performance.",
+        "Developed APIs for seamless data exchange between PT SGN and internal systems"
+      ],
+      "responsibilities": [
+        "Lead development efforts for redesigning mobile and web applications, focusing on user experience and technical performance.",
+        "Create and manage API integrations with external partners, ensuring data flow and report automation.",
+        "Collaborate with the product and business teams to align technology solutions with operational needs."
+      ],
+      "achievements": [
+        "Boosted app performance by 30%, enhancing field productivity and data accuracy.",
+        "Delivered API integrations that reduced manual data input by 40%.",
+        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+      ],
+      "skills": [
+        "Flutter",
+        "Java Android",
+        "PHP Laravel",
+        "MySQL",
+        "Git",
+        "Postman"
+      ]
+    },
+    {
+      "name": "PT Perkebunan Nusantara XII",
+      "position": "Software Engineer",
+      "location_type": "On site",
+      "location": "Surabaya, Indonesia",
+      "url": "https://ptpn12.com/",
+      "startDate": "2022-06",
+      "endDate": "2023-12",
+      "summary": "Spearheaded the overhaul of legacy systems and introduced IoT integration for operational automation within the agriculture sector.",
+      "highlights": [
+        "Led the complete redesign of MAIA Asset Management System for mobile and web, improving functionality and efficiency.",
+        "Integrated IoT solutions for factory automation in rubber and tea production, connected to the OSS Planters platform."
+      ],
+      "responsibilities": [
+        "Led the redesign of the mobile and web versions of the asset management system to enhance usability and performance.",
+        "Developed and integrated IoT solutions to automate factory operations, improving data accuracy and monitoring.",
+        "Added new features, such as ledger reporting, to streamline asset tracking.",
+        "Collaborated with the product and business teams to align technology solutions with operational needs."
+      ],
+      "achievements": [
+        "Reduced factory downtime by 20% through IoT automation and system optimization.",
+        "Achieved 25% user adoption increase due to intuitive interface and performance improvements."
+      ],
+      "skills": [
+        "Figma",
+        "Java Android",
+        "PHP Laravel",
+        "MySQL",
+        "Arduino",
+        "Git"
+      ]
+    },
+    {
+      "name": "SMK Yapalis Krian Sidoarjo",
+      "position": "computer network engineering and multimedia teacher",
+      "location_type": "On site",
+      "location": "Sidoarjo, Indonesia",
+      "url": "https://www.smkyapalis-krian.sch.id/",
+      "startDate": "2018-09",
+      "endDate": "2022-05",
+      "summary": "Taught students technical skills in computer networking, server administration, and multimedia, while developing key digital infrastructure for the school.",
+      "highlights": [
+        "Built a comprehensive School Management System that improved communication and operational efficiency for teachers, students, and parents.",
+        "Developed robust network infrastructure to support seamless learning and administrative activities."
+      ],
+      "responsibilities": [
+        "Taught and mentored students in computer networking, server administration (Linux), and multimedia design.",
+        "Developed a school management system that centralized administrative functions for teachers, staff, and students.",
+        "Managed the school’s IT infrastructure, ensuring uptime and reliable network access."
+      ],
+      "achievements": [
+        "Improved administrative efficiency by 50% by implementing a fully functional management system.",
+        "Guided students through successful projects in networking and multimedia, enhancing their technical skillset."
+      ],
+      "skills": [
+        "Python",
+        "Laravel",
+        "MySQL",
+        "Bootstrap",
+        "HTML",
+        "CSS",
+        "Linux",
+        "JavaScript",
+        "Git",
+        "MikroTik",
+        "Cisco",
+        "GNS3",
+        "Figma"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "17 August 1945 University Surabaya",
+      "url": "https://untag-sby.ac.id/#",
+      "area": "Informatics Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2014-09",
+      "endDate": "2018-08",
+      "score": "3.8",
+      "courses": [
+        "CS101 - Introduction to Computer Science",
+        "CS102 - Data Structures"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Complete Product Management: Vision, Strategy, and Framework",
+      "date": "2024-05",
+      "issuer": "BuildWith Angga",
+      "url": "https://s.id/product-development-yoputro"
+    },
+    {
+      "name": "Website Deployment dan CI/CD (DevOps)",
+      "date": "2024-04",
+      "issuer": "BuildWith Angga",
+      "url": "https://s.id/ci-cd-devops-yoputro"
+    },
+    {
+      "name": "Complete UI Designer: Visual Design, Prototype, Usability Testing",
+      "date": "2024-03",
+      "issuer": "BuildWith Angga",
+      "url": "https://s.id/complete-ui-designer-ecertificate-yoputro"
+    },
+    {
+      "name": "Flutter for Designer: Design to Code",
+      "date": "2022-11",
+      "issuer": "BuildWith Angga",
+      "url": "https://s.id/ecert-flutterfordesigner"
+    },
+    {
+      "name": "Introduction to Flutter Course",
+      "date": "2022-07",
+      "issuer": "SimpliLearn",
+      "url": "https://s.id/ecert-introflutter"
+    },
+    {
+      "name": "Dart Programming",
+      "date": "2022-06",
+      "issuer": "BuildWith Angga",
+      "url": "https://s.id/ecert-dartprogramming"
+    },
+    {
+      "name": "UX Design Gestalk",
+      "date": "2022-04",
+      "issuer": "BuildWith Angga",
+      "url": "https://s.id/ecert-gestalk"
+    },
+    {
+      "name": "MikroTik Certified Routing Engineer (MTCRE)",
+      "date": "2021-09",
+      "issuer": "MikroTik",
+      "url": "https://s.id/ecert-mtcre"
+    },
+    {
+      "name": "MikroTik Certified Network Associate (MTCNA)",
+      "date": "2021-10",
+      "issuer": "MikroTik",
+      "url": "https://s.id/ecert-mtcna"
+    },
+    {
+      "name": "Administrator Sistem - Audit Teknologi Sistem Informasi",
+      "date": "2018-07",
+      "issuer": "Badan Nasional Sertifikasi Profesi (BNSP)",
+      "url": "https://s.id/ecert-auditsi"
+    }
+  ],
+  "techstacks": [
+    {
+      "name": "PHP",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Backend"]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": ["Mobile Development"]
+    },
+    {
+      "name": "Go",
+      "level": "Intermediate",
+      "keywords": ["Backend"]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": ["Machine Learning", "Backend"]
+    },
+    {
+      "name": "Flutter",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Mobile Development"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "HTML",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "Figma",
+      "level": "Advanced",
+      "keywords": ["UI", "Design", "Prototyping"]
+    },
+
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Proficiency"
+    },
+    {
+      "language": "Indonesian",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": ["AI", "Blockchain", "Design"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "UI Design for Carbon Footprint Website",
+      "isActive": false,
+      "description": "Designed a comprehensive user interface for a carbon footprint tracking platform aimed at monitoring environmental impact for ByteNova. The goal was to create a visually engaging and user-friendly dashboard with clear data visualization.",
+      "highlights": [
+        "Emphasized a clean and intuitive layout for effortless navigation.",
+        "Focused on improving user engagement through interactive charts and metrics."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Redesign of OSS Planters Application for Sugarcane",
+      "isActive": false,
+      "description": "Led the redesign of the mobile app for sugarcane management, OSS Planters, to improve overall usability, performance, and user satisfaction. Enhanced the UI for farmers and plantation managers to manage data and streamline plantation workflows.",
+      "highlights": [
+        "Improved the app’s speed and usability by optimizing key user flows.",
+        "Integrated advanced features for tracking farm activities and crop performance."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "UI Design for BisaBayar Mobile Wallet App",
+      "isActive": false,
+      "description": "Created the UI/UX for a mobile wallet app, ensuring smooth user interactions and intuitive design for managing transactions, payments, and digital wallets.",
+      "highlights": [
+        "Focused on seamless navigation and a visually appealing interface.",
+        "Ensured a secure and trustworthy design while maintaining simplicity for users."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Random Forest Classifier for Psychometric Test Results",
+      "isActive": false,
+      "description": "Developed a machine learning model using a Random Forest Classifier to enhance the accuracy of psychometric test result predictions in recruitment processes.",
+      "highlights": [
+        "Implemented Grid Search for model optimization.",
+        "Improved classification accuracy, leading to better candidate evaluation."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Backend API for Task Management (TodoList)",
+      "isActive": false,
+      "description": "Built a highly efficient backend API for a task management application, supporting multi-user environments and advanced task tracking features.",
+      "highlights": [
+        "Delivered a highly scalable and performant API, enabling seamless task creation, editing, and tracking.",
+        "Successfully integrated task prioritization and notification features."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Mobile App Development for MAIA (Asset Management) for PTPN 1",
+      "isActive": false,
+      "description": "Developed a mobile asset management application for PTPN 1, enabling the company to manage and track its inventory more effectively, with real-time updates and a user-friendly interface.",
+      "highlights": [
+        "Implemented real-time data syncing with the backend, ensuring up-to-date asset information.",
+        "Designed the app for ease of use with minimal training required for users."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Website Development for MAIA (Asset Management) for PTPN 1",
+      "isActive": false,
+      "description": "Built the web version of the asset management application, focusing on data management, reporting, and improving overall efficiency for internal operations at PTPN 1.",
+      "highlights": [
+        "Integrated dynamic reporting features for easy access to asset details and analytics.",
+        "Streamlined workflows for asset entry, editing, and deletion."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "API Integration between PT SGN and PTPN XII (OSS Planters)",
+      "isActive": false,
+      "description": "Developed APIs to integrate systems between PT SGN and PTPN XII, allowing for efficient data exchange and collaboration in the sugarcane industry.",
+      "highlights": [
+        "Successfully synchronized data between two complex systems.",
+        "Reduced operational delays by automating data exchange processes."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "UI Design for Bitnova Crypto Wallet Mobile App",
+      "isActive": false,
+      "description": "Designed a modern, intuitive user interface for Bitnova’s cryptocurrency wallet mobile app, ensuring an accessible and secure user experience for managing digital assets.",
+      "highlights": [
+        "Created a sleek, user-friendly design that simplifies complex cryptocurrency transactions.",
+        "Focused on usability, particularly for users new to digital wallets."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "SMK Yapalis Krian School Management System",
+      "isActive": false,
+      "description": "Developed a full-fledged school management system to streamline communication and operations between students, teachers, staff, and parents at SMK Yapalis Krian.",
+      "highlights": [
+        "Facilitated real-time communication and data access for all stakeholders.",
+        "Improved administrative efficiency with automated attendance and grading systems."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Redesign of OSS Planters Mobile Application (On Farm and Off Farm)",
+      "isActive": false,
+      "description": "Redesigned the mobile interface of OSS Planters for both on-farm and off-farm operations, ensuring a more user-centered approach to handling data and monitoring plantation activities.",
+      "highlights": [
+        "Delivered a fresh, easy-to-navigate interface that boosted user satisfaction.",
+        "Integrated new features for off-farm tracking and data entry."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "UI Design for Sekula - School Education Mobile App",
+      "isActive": false,
+      "description": "Designed the UI for Sekula, an education-focused mobile application designed to connect teachers, students, and parents, facilitating smooth communication and learning.",
+      "highlights": [
+        "Focused on accessibility and ease of use for all users, regardless of their tech proficiency.",
+        "Delivered a highly engaging and responsive design."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Landing Page Development for PT Tiga Raja Timur",
+      "isActive": false,
+      "description": "Created a high-performing landing page for PT Tiga Raja Timur, focusing on brand presence and SEO optimization.",
+      "highlights": [
+        "Ensured a responsive design optimized for mobile, tablet, and desktop viewing.",
+        "Increased conversion rates by improving user engagement and loading times."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Mobile Legends Win Prediction Using Naive Bayes Method",
+      "isActive": false,
+      "description": "Developed a machine learning model using the Naive Bayes method to predict win outcomes in Mobile Legends games.",
+      "highlights": [
+        "Achieved high accuracy in match outcome predictions.",
+        "Implemented user-friendly data visualization for match insights."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Landing Page Development for Digital Movement Indonesia",
+      "isActive": false,
+      "description": "Built an SEO-optimized landing page for Digital Movement Indonesia with a focus on performance and user experience.",
+      "highlights": [
+        "Delivered a fast-loading, mobile-first design with strong SEO foundations.",
+        "Incorporated dynamic content sections for future scalability."
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Encoding-Decoding Tool Development",
+      "isActive": false,
+      "description": "Created a web-based encoding and decoding tool, designed for seamless text conversion across various formats.",
+      "highlights": [
+        "Developed an easy-to-use interface with multiple encoding/decoding options.",
+        "Optimized the tool for fast processing times."
+      ],
+      "url": "",
+      "github": ""
+    }
+  ]
+}
